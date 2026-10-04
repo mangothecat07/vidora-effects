@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updated": "2026-10-05T03:21:00Z",
+  "effects": [
+    {
+      "id": "test_effect2",
+      "name": "Test Effect2",
+      "category": "Effects",
+      "version": 2,
+      "overlay": "overlay.mp4",
+      "thumb": "thumb.jpg",
+      "durationMs": 3000,
+      "loop": true,
+      "blendMode": "normal",
+      "hasAlpha": false,
+      "chromaKey": true,
+      "chromaColor": "#000000",
+      "sizeBytes": 2039585,
+      "sha256": ""
+    }
+  ]
+}
