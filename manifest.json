@@ -17,6 +17,23 @@
       "chromaColor": "#000000",
       "sizeBytes": 2039585,
       "sha256": ""
-    }
+    },
+    {
+    "id":  "white_snow",
+    "name":  "white_snow effect",
+    "category":  "Particles",
+    "version":  1,
+    "overlay":  "overlay.mp4",
+    "thumb":  "overlay.mp4",
+    "durationMs":  5000,
+    "loop":  true,
+    "blendMode":  "screen",
+    "hasAlpha":  false,
+    "chromaKey":  true,
+    "chromaColor":  "#000000",
+    "sizeBytes":  13655110,
+    "sha256":  ""
+}
+
   ]
 }
