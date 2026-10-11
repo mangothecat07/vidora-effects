@@ -1,0 +1,16 @@
+﻿{
+    "id":  "glitch_particles_color_broken_pixels_1",
+    "name":  " glitch particles color broken pixels 1.Value.ToUpper() litch  glitch particles color broken pixels 1.Value.ToUpper() articles  glitch particles color broken pixels 1.Value.ToUpper() olor  glitch particles color broken pixels 1.Value.ToUpper() roken  glitch particles color broken pixels 1.Value.ToUpper() ixels  glitch particles color broken pixels 1.Value.ToUpper() ",
+    "category":  "Glitch",
+    "version":  1,
+    "overlay":  "overlay.mp4",
+    "thumb":  "overlay.mp4",
+    "durationMs":  5000,
+    "loop":  true,
+    "blendMode":  "screen",
+    "hasAlpha":  false,
+    "chromaKey":  true,
+    "chromaColor":  "#000000",
+    "sizeBytes":  5090742,
+    "sha256":  ""
+}

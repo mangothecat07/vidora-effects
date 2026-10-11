@@ -1,0 +1,16 @@
+﻿{
+    "id":  "black_white_grunge_thriller_background_1",
+    "name":  " black white grunge thriller background 1.Value.ToUpper() lack  black white grunge thriller background 1.Value.ToUpper() hite  black white grunge thriller background 1.Value.ToUpper() runge  black white grunge thriller background 1.Value.ToUpper() hriller  black white grunge thriller background 1.Value.ToUpper() ackground  black white grunge thriller background 1.Value.ToUpper() ",
+    "category":  "Film",
+    "version":  1,
+    "overlay":  "overlay.mp4",
+    "thumb":  "overlay.mp4",
+    "durationMs":  5000,
+    "loop":  true,
+    "blendMode":  "normal",
+    "hasAlpha":  false,
+    "chromaKey":  true,
+    "chromaColor":  "#000000",
+    "sizeBytes":  22580322,
+    "sha256":  ""
+}

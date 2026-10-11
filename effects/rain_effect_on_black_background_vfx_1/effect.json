@@ -1,0 +1,16 @@
+﻿{
+    "id":  "rain_effect_on_black_background_vfx_1",
+    "name":  " rain effect on black background vfx 1.Value.ToUpper() ain  rain effect on black background vfx 1.Value.ToUpper() ffect  rain effect on black background vfx 1.Value.ToUpper() n  rain effect on black background vfx 1.Value.ToUpper() lack  rain effect on black background vfx 1.Value.ToUpper() ackground  rain effect on black background vfx 1.Value.ToUpper() fx  rain effect on black background vfx 1.Value.ToUpper() ",
+    "category":  "Particles",
+    "version":  1,
+    "overlay":  "overlay.mp4",
+    "thumb":  "overlay.mp4",
+    "durationMs":  5000,
+    "loop":  true,
+    "blendMode":  "normal",
+    "hasAlpha":  false,
+    "chromaKey":  true,
+    "chromaColor":  "#000000",
+    "sizeBytes":  78344862,
+    "sha256":  ""
+}

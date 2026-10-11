@@ -1,0 +1,16 @@
+﻿{
+    "id":  "white_particles_moving_on_a_black_backgr_1",
+    "name":  " white particles moving on a black backgr 1.Value.ToUpper() hite  white particles moving on a black backgr 1.Value.ToUpper() articles  white particles moving on a black backgr 1.Value.ToUpper() oving  white particles moving on a black backgr 1.Value.ToUpper() n  white particles moving on a black backgr 1.Value.ToUpper()   white particles moving on a black backgr 1.Value.ToUpper() lack  white particles moving on a black backgr 1.Value.ToUpper() ackgr  white particles moving on a black backgr 1.Value.ToUpper() ",
+    "category":  "Particles",
+    "version":  1,
+    "overlay":  "overlay.mp4",
+    "thumb":  "overlay.mp4",
+    "durationMs":  5000,
+    "loop":  true,
+    "blendMode":  "screen",
+    "hasAlpha":  false,
+    "chromaKey":  true,
+    "chromaColor":  "#000000",
+    "sizeBytes":  20117201,
+    "sha256":  ""
+}
