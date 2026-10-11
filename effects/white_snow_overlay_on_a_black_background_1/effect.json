@@ -1,16 +1,16 @@
-﻿{
-    "id":  "white_snow_overlay_on_a_black_background_1",
-    "name":  " white snow overlay on a black background 1.Value.ToUpper() hite  white snow overlay on a black background 1.Value.ToUpper() now  white snow overlay on a black background 1.Value.ToUpper() verlay  white snow overlay on a black background 1.Value.ToUpper() n  white snow overlay on a black background 1.Value.ToUpper()   white snow overlay on a black background 1.Value.ToUpper() lack  white snow overlay on a black background 1.Value.ToUpper() ackground  white snow overlay on a black background 1.Value.ToUpper() ",
-    "category":  "Particles",
-    "version":  1,
-    "overlay":  "overlay.mp4",
-    "thumb":  "overlay.mp4",
-    "durationMs":  5000,
-    "loop":  true,
-    "blendMode":  "screen",
-    "hasAlpha":  false,
-    "chromaKey":  true,
-    "chromaColor":  "#000000",
-    "sizeBytes":  41920972,
-    "sha256":  ""
+{
+  "id": "white_snow_overlay_on_a_black_background_1",
+  "name": "White Snow Overlay On A Black Background",
+  "category": "Particles",
+  "version": 1,
+  "overlay": "overlay.mp4",
+  "thumb": "overlay.mp4",
+  "durationMs": 5000,
+  "loop": true,
+  "blendMode": "screen",
+  "hasAlpha": false,
+  "chromaKey": true,
+  "chromaColor": "#000000",
+  "sizeBytes": 41920972,
+  "sha256": ""
 }

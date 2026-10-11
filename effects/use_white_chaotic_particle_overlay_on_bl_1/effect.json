@@ -1,16 +1,16 @@
-﻿{
-    "id":  "use_white_chaotic_particle_overlay_on_bl_1",
-    "name":  " use white chaotic particle overlay on bl 1.Value.ToUpper() se  use white chaotic particle overlay on bl 1.Value.ToUpper() hite  use white chaotic particle overlay on bl 1.Value.ToUpper() haotic  use white chaotic particle overlay on bl 1.Value.ToUpper() article  use white chaotic particle overlay on bl 1.Value.ToUpper() verlay  use white chaotic particle overlay on bl 1.Value.ToUpper() n  use white chaotic particle overlay on bl 1.Value.ToUpper() l  use white chaotic particle overlay on bl 1.Value.ToUpper() ",
-    "category":  "Particles",
-    "version":  1,
-    "overlay":  "overlay.mp4",
-    "thumb":  "overlay.mp4",
-    "durationMs":  5000,
-    "loop":  true,
-    "blendMode":  "normal",
-    "hasAlpha":  false,
-    "chromaKey":  true,
-    "chromaColor":  "#000000",
-    "sizeBytes":  48794150,
-    "sha256":  ""
+{
+  "id": "use_white_chaotic_particle_overlay_on_bl_1",
+  "name": "Use White Chaotic Particle Overlay On Bl",
+  "category": "Particles",
+  "version": 1,
+  "overlay": "overlay.mp4",
+  "thumb": "overlay.mp4",
+  "durationMs": 5000,
+  "loop": true,
+  "blendMode": "normal",
+  "hasAlpha": false,
+  "chromaKey": true,
+  "chromaColor": "#000000",
+  "sizeBytes": 48794150,
+  "sha256": ""
 }

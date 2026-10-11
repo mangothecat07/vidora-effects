@@ -1,16 +1,16 @@
-﻿{
-    "id":  "fast_orange_blue_laser_beams_1",
-    "name":  " fast orange blue laser beams 1.Value.ToUpper() ast  fast orange blue laser beams 1.Value.ToUpper() range  fast orange blue laser beams 1.Value.ToUpper() lue  fast orange blue laser beams 1.Value.ToUpper() aser  fast orange blue laser beams 1.Value.ToUpper() eams  fast orange blue laser beams 1.Value.ToUpper() ",
-    "category":  "Light",
-    "version":  1,
-    "overlay":  "overlay.mp4",
-    "thumb":  "overlay.mp4",
-    "durationMs":  5000,
-    "loop":  true,
-    "blendMode":  "screen",
-    "hasAlpha":  false,
-    "chromaKey":  true,
-    "chromaColor":  "#000000",
-    "sizeBytes":  6981714,
-    "sha256":  ""
+{
+  "id": "fast_orange_blue_laser_beams_1",
+  "name": "Fast Orange Blue Laser Beams",
+  "category": "Light",
+  "version": 1,
+  "overlay": "overlay.mp4",
+  "thumb": "overlay.mp4",
+  "durationMs": 5000,
+  "loop": true,
+  "blendMode": "screen",
+  "hasAlpha": false,
+  "chromaKey": true,
+  "chromaColor": "#000000",
+  "sizeBytes": 6981714,
+  "sha256": ""
 }
